@@ -1,6 +1,6 @@
 package ifl1;
 
-import abiturklassen.Queue;
+import abiturklassen.*;
 
 public class Shop {
     private String name;
