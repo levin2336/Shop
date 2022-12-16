@@ -1,11 +1,10 @@
 package ifl1;
 
-import java.util.Queue;
+import abiturklassen.Queue;
 
 public class Shop {
     private String name;
     private double balance;
-    private Queue<Customer> customerQueue;
 
     public Shop(String name, double balance) {
         this.name = name;
